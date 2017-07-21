@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using ConnectSQLServerTest.Models;
 
 namespace ConnectSQLServerTest.Controllers {
     public class HomeController : Controller {
